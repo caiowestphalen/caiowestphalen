@@ -1,5 +1,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-
+![Snake animation](https://github.com/caiowestphalen/caiowestphalen/blob/output/github-contribution-grid-snake.svg)
 
 ## Contato:
 <div>
@@ -8,8 +8,7 @@
 <a href="https://www.twitch.tv/caiocrespo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href = "mailto:caio@pixcode.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<br>
-![Snake animation](https://github.com/caiowestphalen/caiowestphalen/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 <div>
 <a href="https://github.com/caiowestphalen">
