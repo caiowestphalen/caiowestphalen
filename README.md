@@ -1,5 +1,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>
-![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ## Contato:
 <div>
@@ -15,3 +15,5 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiowestphalen&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiowestphalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+
