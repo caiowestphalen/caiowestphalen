@@ -1,5 +1,5 @@
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)<br>
-![Snake animation](https://github.com/caiowestphalen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
 ## Contato:
 <div>
