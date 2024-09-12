@@ -6,7 +6,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pixcode)](https://twitter.com/pixcode)
 
 ## About me
-I'm a {frontend} web developer and deployment support analyst at [@pixcode](https://www.pixcode.com.br/).
+I'm a {frontend} web developer and deployment support analyst at [@hevodigital](https://www.hevodigital.com.br/).
 
 
 <br>
