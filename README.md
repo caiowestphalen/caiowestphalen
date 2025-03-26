@@ -1,5 +1,4 @@
 
-![mynameis](https://user-images.githubusercontent.com/7971891/236666308-7b298afa-aca4-4053-94ae-d3f7adea1636.png)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/caiowestphalen)](https://github.com/caiowestphalen)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiocwc/)](https://www.linkedin.com/in/caiocwc/)
