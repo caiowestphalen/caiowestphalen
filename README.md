@@ -12,7 +12,6 @@ I'm a {frontend} web developer and deployment support analyst at [@hevodigital](
 <div>
 <a href="https://github.com/caiowestphalen">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiowestphalen&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=caiowestphalen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
