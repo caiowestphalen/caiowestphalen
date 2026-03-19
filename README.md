@@ -10,35 +10,8 @@
 
 ---
 
-
-### 👨‍💻 Sobre mim
-
-```js
-const caio = {
-  username:   "caiowestphalen",
-  company:    "@hevodigital",
-  location:   "Curitiba, PR",
-  workingOn:  ["Web Apps", "Laravel", "CSS"],
-  learning:   ["always something new 🚀"],
-  hobbies:    ["code", "design", "café ☕"],
-  funFact:    "!false === true. Think about it. 🤯"
-};
-```
-
-- 🏢 Dev na **[Hevo Digital](https://hevodigital.com.br)**
-- 🌍 Trabalhando do **localhost**
-- 📬 Contato: **caio@hevodigital.com.br**
-- 📸 Instagram: **[@caiocwc](https://instagram.com/caiocwc)**
-- 💡 1861+ contribuições no último ano
-
-<br clear="right"/>
-
----
-
 <!-- Stats Section -->
 <div align="center">
-
-### 📊 GitHub Stats
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=caiowestphalen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=39D353&currStreakLabel=39D353" width="60%" />
 
@@ -48,8 +21,6 @@ const caio = {
 
 <!-- Tech Stack -->
 <div align="center">
-
-### 🛠️ Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -68,16 +39,3 @@ const caio = {
 
 </div>
 
----
-
-<!-- Profile Views Counter -->
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=caiowestphalen&color=39D353&style=for-the-badge&label=PROFILE+VIEWS)
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:238636,100:0d1117&height=120&section=footer" width="100%"/>
-
-*"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
-
-</div>
