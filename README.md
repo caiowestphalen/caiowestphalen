@@ -51,8 +51,6 @@ const caio = {
 
 ### 🛠️ Tech Stack
 
-**Frontend**
-
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,36 +65,6 @@ const caio = {
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-### 🐍 Watch my contributions get eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/caiowestphalen/caiowestphalen/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/caiowestphalen/caiowestphalen/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiowestphalen/caiowestphalen/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-
-</div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-
-### 🌐 Vamos nos conectar?
-
-[![Website](https://img.shields.io/badge/hevodigital.com.br-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://hevodigital.com.br)
-[![Instagram](https://img.shields.io/badge/@caiocwc-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiocwc)
-[![Email](https://img.shields.io/badge/caio@hevodigital.com.br-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caio@hevodigital.com.br)
-[![GitHub](https://img.shields.io/badge/caiowestphalen-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caiowestphalen)
 
 </div>
 
