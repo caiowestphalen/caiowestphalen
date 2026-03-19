@@ -17,9 +17,8 @@
 const caio = {
   username:   "caiowestphalen",
   company:    "@hevodigital",
-  location:   "Curitiba, PR 🌲",
-  pronouns:   "he/him",
-  workingOn:  ["Web Apps", "Laravel", "CSS magic"],
+  location:   "Curitiba, PR",
+  workingOn:  ["Web Apps", "Laravel", "CSS"],
   learning:   ["always something new 🚀"],
   hobbies:    ["code", "design", "café ☕"],
   funFact:    "!false === true. Think about it. 🤯"
@@ -27,7 +26,7 @@ const caio = {
 ```
 
 - 🏢 Dev na **[Hevo Digital](https://hevodigital.com.br)**
-- 🌍 Trabalhando do **localhost** (home office forever)
+- 🌍 Trabalhando do **localhost**
 - 📬 Contato: **caio@hevodigital.com.br**
 - 📸 Instagram: **[@caiocwc](https://instagram.com/caiocwc)**
 - 💡 1861+ contribuições no último ano
@@ -59,13 +58,9 @@ const caio = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Backend**
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-**Database & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,30 +83,6 @@ const caio = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiowestphalen/caiowestphalen/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=caiowestphalen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
-
-</div>
-
----
-
-<!-- Achievements -->
-<div align="center">
-
-### 🎖️ Achievements Unlocked
-
-| 🦈 Pull Shark ×3 | 👥 Pair Extraordinaire ×4 | ⚡ Quickdraw | 🎰 YOLO |
-|:---:|:---:|:---:|:---:|
-| Merged many PRs | Collaborated hard | First issue/PR fast | Merged without review |
 
 </div>
 
