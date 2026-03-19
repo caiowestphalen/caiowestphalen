@@ -10,8 +10,6 @@
 
 ---
 
-<!-- About Section -->
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px;" />
 
 ### 👨‍💻 Sobre mim
 
@@ -43,10 +41,7 @@ const caio = {
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=caiowestphalen&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9&ring_color=238636" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=caiowestphalen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=39D353&currStreakLabel=39D353" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiowestphalen&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9&langs_count=8" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=caiowestphalen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=39D353&currStreakLabel=39D353" width="60%" />
 
 </div>
 
@@ -82,17 +77,6 @@ const caio = {
 
 ---
 
-<!-- Activity Graph -->
-<div align="center">
-
-### 📈 Contribution Activity
-
-[![Caio's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caiowestphalen&bg_color=0d1117&color=39D353&line=238636&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <!-- Snake Animation -->
 <div align="center">
 
@@ -104,7 +88,6 @@ const caio = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/caiowestphalen/caiowestphalen/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚠️ Para ativar a snake, adicione o [GitHub Action](https://github.com/Platane/snk) no seu repo!
 
 </div>
 
@@ -115,7 +98,7 @@ const caio = {
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=caiowestphalen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=caiowestphalen&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 
 </div>
 
