@@ -5,35 +5,7 @@
 
 </div>
 
----
-
-<!-- Stats Section -->
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=caiowestphalen&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=39D353&currStreakLabel=39D353" width="60%" />
-
-</div>
-
----
-
-<!-- Tech Stack -->
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-
 <img src="https://camo.githubusercontent.com/87e0ef565476053f58a27ac5a4fb9cea690fd79ae533fc9c04e29b998a2a0f3c/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6361696f776573747068616c656e26636f6c6f723d333944333533267374796c653d666f722d7468652d6261646765266c6162656c3d50524f46494c452b5649455753">
 
 </div>
